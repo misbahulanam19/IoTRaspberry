@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "418421804502",
+    "firebase_url": "https://dht11-15502.firebaseio.com",
+    "project_id": "dht11-15502",
+    "storage_bucket": "dht11-15502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418421804502:android:d315bc67a2923da8e96877",
+        "android_client_info": {
+          "package_name": "com.example.iot4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418421804502-s76oirunmbs1sq0etsk17tjttvusl1ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBhPO_nefvInNQs6VS2KZ8rf0Tb7q-Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418421804502-s76oirunmbs1sq0etsk17tjttvusl1ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418421804502:android:63e1e80f2141046be96877",
+        "android_client_info": {
+          "package_name": "com.example.iot5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418421804502-s76oirunmbs1sq0etsk17tjttvusl1ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBhPO_nefvInNQs6VS2KZ8rf0Tb7q-Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418421804502-s76oirunmbs1sq0etsk17tjttvusl1ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418421804502:android:85335776770e1ffbe96877",
+        "android_client_info": {
+          "package_name": "com.example.iotraspberry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418421804502-s76oirunmbs1sq0etsk17tjttvusl1ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBhPO_nefvInNQs6VS2KZ8rf0Tb7q-Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418421804502-s76oirunmbs1sq0etsk17tjttvusl1ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

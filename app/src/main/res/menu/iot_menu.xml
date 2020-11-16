@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item1"
+        android:title="LED"
+        app:showAsAction="never"
+        android:text="PindahLed"
+        android:onClick="PindahLed"/>
+
+    <item android:id="@+id/item2"
+        android:title="Button"
+        app:showAsAction="never"
+        android:text="PindahBtn"
+        android:onClick="PindahBtn"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title="LCD"
+        app:showAsAction="never"
+        android:text="PindahLcd"
+        android:onClick="PindahLcd"/>
+
+    <item android:id="@+id/item4"
+        android:title="Buzzer"
+        app:showAsAction="never"
+        android:text="PindahBuzzer"
+        android:onClick="PindahBuzzer"/>
+
+    <item
+        android:id="@+id/item5"
+        android:title="Suhu"
+        app:showAsAction="never"
+        android:text="PindahSuhu"
+        android:onClick="PindahSuhu"/>
+
+    <item android:id="@+id/item6"
+        android:title="Jarak"
+        app:showAsAction="never"
+        android:text="PindahJarak"
+        android:onClick="PindahJarak"/>
+
+    <item
+        android:id="@+id/item7"
+        android:title="Status"
+        app:showAsAction="never"
+        android:text="PindahStatus"
+        android:onClick="PindahStatus"/>
+
+    <item android:id="@+id/item8"
+        android:title="PWM"
+        app:showAsAction="never"
+        android:text="PindahPwm"
+        android:onClick="PindahPwm"/>
+
+
+
+<!--        <menu>-->
+<!--            <item android:id="@+id/subitem1"-->
+<!--                android:title="Sub Item 1"/>-->
+<!--            <item android:id="@+id/subitem2"-->
+<!--                android:title="Sub Item 2"/>-->
+<!--        </menu>-->
+
+<!--    </item>-->
+</menu>

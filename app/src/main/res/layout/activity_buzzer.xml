@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BuzzerActivity">
+
+    <TextView
+        android:id="@+id/tv_guide_Ultrasonik3"
+        android:layout_width="326dp"
+        android:layout_height="71dp"
+        android:layout_marginStart="175dp"
+        android:layout_marginLeft="175dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="179dp"
+        android:layout_marginRight="179dp"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Tekan tombol buzzer dibawah ini untuk meangktifkan suara buzzer, dan tekan kembali tombol untuk menonaktifkan bunyi buzzer"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ToggleButton
+        android:id="@+id/tgbtn_buzzer"
+        android:layout_width="203dp"
+        android:layout_height="197dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/tbutton_buzzer"
+        android:textSize="0sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_guide_Ultrasonik3" />
+</androidx.constraintlayout.widget.ConstraintLayout>

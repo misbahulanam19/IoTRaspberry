@@ -1,0 +1,2 @@
+rootProject.name='IotRaspberry'
+include ':app'
