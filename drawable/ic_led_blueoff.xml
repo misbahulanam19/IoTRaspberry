@@ -1,0 +1,82 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120.573dp"
+    android:height="216.288dp"
+    android:viewportWidth="31.901606"
+    android:viewportHeight="57.2262">
+
+<!--  tutup led-->
+  <path
+      android:pathData="M15.8595,0.5798C9.9775,0.5639 2.4829,4.4136 2.3414,17.4484v23.5682h27.0252v-23.5682c-0.0098,-12.2433 -7.5534,-16.8525 -13.5072,-16.8686z"
+      android:strokeAlpha="1"
+      android:strokeLineJoin="round"
+      android:strokeWidth="0.76499999"
+      android:fillColor="#102B75"
+      android:strokeColor="#11184E"
+      android:fillAlpha="1"
+      android:strokeLineCap="round"/>
+
+<!--  kaki led-->
+  <path
+      android:pathData="M6.8771,42.1152h3.3073v11.1029h-3.3073z"
+      android:strokeAlpha="1"
+      android:strokeLineJoin="round"
+      android:strokeWidth="0.79918587"
+      android:fillColor="#333333"
+      android:strokeColor="#000000"
+      android:fillAlpha="1"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M21.6938,42.1152h3.3073v14.6442h-3.3073z"
+      android:strokeAlpha="1"
+      android:strokeLineJoin="round"
+      android:strokeWidth="0.79918587"
+      android:fillColor="#333333"
+      android:strokeColor="#000000"
+      android:fillAlpha="1"
+      android:strokeLineCap="round"/>
+
+
+<!--  plat kutub-->
+  <path
+      android:pathData="m6.8771,26.2403v8.2631,2.8401h2.1048v-2.8401h1.9373l2.9735,-8.2631h-4.9108z"
+      android:strokeAlpha="1"
+      android:strokeLineJoin="round"
+      android:strokeWidth="0.79918587"
+      android:fillColor="#0B1859"
+      android:strokeColor="#0B1859"
+      android:fillAlpha="1"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="m24.927,26.2271v8.2631,2.8401h-2.1048v-2.8401l-10.3001,-0.0236 2.956,-8.2631 7.344,0.0236z"
+      android:strokeAlpha="1"
+      android:strokeLineJoin="round"
+      android:strokeWidth="0.79918587"
+      android:fillColor="#0B1859"
+      android:strokeColor="#0B1859"
+      android:fillAlpha="1"
+      android:strokeLineCap="round"/>
+
+
+<!--  tepi bawah led-->
+  <path
+      android:pathData="M1.5061,37.7342L30.3891,37.7342A1.1378,1.1378 0,0 1,31.5268 38.872L31.5268,41.4822A1.1378,1.1378 0,0 1,30.3891 42.6199L1.5061,42.6199A1.1378,1.1378 0,0 1,0.3683 41.4822L0.3683,38.872A1.1378,1.1378 0,0 1,1.5061 37.7342z"
+      android:strokeAlpha="1"
+      android:strokeLineJoin="round"
+      android:strokeWidth="0.743119"
+      android:fillColor="#102B75"
+      android:strokeColor="#11184E"
+      android:fillAlpha="1"
+      android:strokeLineCap="round"/>
+
+
+<!--  efekkaca nya led-->
+  <path
+      android:pathData="M17.9617,9.3007a6.1784,4.2891 49.3565,1 0,8.9613 -1.8558a6.1784,4.2891 49.3565,1 0,-8.9613 1.8558z"
+      android:strokeAlpha="1"
+      android:strokeLineJoin="round"
+      android:strokeWidth="0.86025935"
+      android:fillColor="#C02E4B81"
+      android:strokeColor="#00000000"
+      android:fillAlpha="1"
+      android:strokeLineCap="round"/>
+</vector>
